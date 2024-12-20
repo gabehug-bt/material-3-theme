@@ -1,7 +1,7 @@
 allow_embedding: false
 client_init_module: InitModule
 db_schema: {}
-name: Material 3 Theme
+name: Material 3 Theme - CONTRIBUTER
 native_deps:
   head_html: |
     <link rel="preconnect" href="https://fonts.googleapis.com">
